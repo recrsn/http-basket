@@ -29,3 +29,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for
 more information.
+
+## License
+
+MIT License
+
+Copyright (c) 2021 Amitosh Swain Mahapatra
